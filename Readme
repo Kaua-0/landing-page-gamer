@@ -1,0 +1,35 @@
+# 🎮 GameVerse: Sua Landing Page Gamer
+
+Uma landing page moderna e responsiva focada em jogos, projetada com um tema vibrante de preto e vermelho (estilo dark e agressivo) e utilizando recursos de degradê para um visual de alto impacto.
+
+---
+
+## 🔗 Demonstração ao Vivo
+
+Acesse a versão final e publicada desta landing page através do link abaixo:
+
+**https://kaua-0.github.io/landing-page-gamer/**
+
+---
+
+## ✨ Tecnologias
+
+Este projeto foi construído utilizando apenas tecnologias front-end puras, garantindo rapidez e leveza:
+
+* **HTML5:** Estrutura semântica da página.
+* **CSS3:** Estilização, degradês e responsividade.
+* **Font Awesome:** Para os ícones sociais (Discord e Twitch).
+
+---
+
+## 🎨 Cores e Estilo
+
+* **Esquema de Cores:** Preto (Fundo) e Vermelho Vibrante (`#e50914`, Destaques).
+* **Design:** Utiliza degradês e sombras de caixa para criar profundidade, focando em um estilo moderno e premium.
+* **Tipografia:** `Oswald` (Títulos) e `Roboto` (Corpo) para legibilidade e impacto visual.
+
+---
+
+## 🤝 Contribuições
+
+Este é um projeto simples para colocar em pratica uma boa criação de uma LandingPage.
